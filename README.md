@@ -11,11 +11,14 @@ Minha jornada técnica comecou no início do ano de 2025, no curso de Desenvolvi
 
 
 # Linguagens que usei e venho usando no curso
-![Logo C++](images/ISO_C++_Logo.svg.png)
-![Logo C#](images/C_Sharp_Logo_2023.svg.png)
-![Logo Python](images/Python-logo-notext.svg.png)
-![Logo JavaScript](images/logotipo-do-javascript-136765881.webp)
-![Logo HTML5](images/HTML-5-Badge-Logo.png)
+![Logo C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Logo Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Logo JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Logo HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+- Linguagem de estilização:
+
+![Logo CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## :computer:O que que eu ando fazendo
@@ -26,4 +29,11 @@ Uma palavra que poderia definir a minha experiência durante o percurso do curso
 🎯 Meus objetivos para este ano são:  
 - Melhorar minhas habilidades em desenvolvimento web.  
 - Criar projetos próprios para meu portfólio.  
-- Contribuir em projetos open source.  
+- Contribuir em projetos open source.
+
+## Contato
+
+![Logo Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+
+[Você pode entrar em contato comigo através do e-mail](laura.a.nobre@aluno.senai.br)
+
