@@ -35,5 +35,5 @@ Uma palavra que poderia definir a minha experiência durante o percurso do curso
 
 ![Logo Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
 
-[Você pode entrar em contato comigo através do e-mail](laura.a.nobre@aluno.senai.br)
+Você pode entrar em contato comigo através do e-mail laura.a.nobre@aluno.senai.br
 
